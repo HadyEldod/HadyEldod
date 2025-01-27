@@ -5,8 +5,10 @@
 ## About Me  
 - 😄 **Pronouns:** He/Him  
 - 👀 **Interests:** Software development, mobile apps, and creative tech solutions  
-- 🌱 **Currently Learning:** Advanced Flutter techniques, backend development, and integrating APIs  
-- 💼 **Experience:** One year of freelance Flutter development, creating user-friendly and dynamic mobile applications  
+- 🌱 **Currently Learning:** Advanced Flutter techniques, and try to study DevOps 
+  💼 **Experience:**
+- NTI Flutter Developer Internship 
+- One year of freelance Flutter development, creating user-friendly and dynamic mobile applications  
 
 ## 🚀 Skills  
 ![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter&logoColor=white&style=for-the-badge)  
