@@ -8,6 +8,7 @@
 - 🌱 **Currently Learning:** Advanced Flutter techniques, and try to study DevOps
   
 - 💼 **Experience:**
+- 
          1- NTI Flutter Developer Internship 
          2- One year of freelance Flutter development, creating user-friendly and dynamic mobile applications  
 
