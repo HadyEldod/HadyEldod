@@ -5,7 +5,8 @@
 ## About Me  
 - 😄 **Pronouns:** He/Him  
 - 👀 **Interests:** Software development, mobile apps, and creative tech solutions  
-- 🌱 **Currently Learning:** Advanced Flutter techniques, and try to study DevOps 
+- 🌱 **Currently Learning:** Advanced Flutter techniques, and try to study DevOps
+  
   💼 **Experience:**
 - NTI Flutter Developer Internship 
 - One year of freelance Flutter development, creating user-friendly and dynamic mobile applications  
