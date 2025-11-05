@@ -9,8 +9,9 @@
   
 - 💼 **Experience:**
 - 
-         1- NTI Flutter Developer Internship 
-         2- One year of freelance Flutter development, creating user-friendly and dynamic mobile applications  
+         1- Flutter Developer at Abudiyab IT Service
+         2- NTI Flutter Developer Internship 
+         3- One year of freelance Flutter development, creating user-friendly and dynamic mobile applications  
 
 ## 🚀 Skills  
 ![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter&logoColor=white&style=for-the-badge)  
