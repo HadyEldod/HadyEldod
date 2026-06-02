@@ -1,24 +1,26 @@
 # 👋 Hi, I'm Hady Mohamed El-Sawah
 
-### Mobile Application Developer (Flutter)
+![Profile Views](https://komarev.com/ghpvc/?username=HadyEldod\&color=brightgreen)
 
-Passionate Flutter Developer with hands-on experience building, maintaining, and publishing cross-platform mobile applications for Android and iOS. Skilled in Flutter, Dart, REST API integration, Firebase services, state management, and mobile app architecture. Experienced in delivering production-ready applications and collaborating with teams to create scalable and user-friendly solutions.
+### 📱 Mobile Application Developer (Flutter)
+
+Passionate Flutter Developer with hands-on experience building, maintaining, and publishing cross-platform mobile applications for Android and iOS. Skilled in Flutter, Dart, Firebase, REST APIs, state management, and mobile app architecture. Experienced in delivering production-ready applications and collaborating with teams to create scalable and user-friendly solutions.
 
 ---
 
 ## 🚀 About Me
 
-* 📱 Flutter Developer at **AbuDiyab IT Services**
-* 🎓 Flutter Development Trainee at **NTI Mansoura**
-* 💼 1+ year of professional and freelance experience in mobile application development
+* 💼 Flutter Developer at **AbuDiyab IT Services**
+* 🎓 Mobile App Development (Flutter) Trainee at **NTI Mansoura**
+* 👨‍💻 1+ year of professional and freelance experience in Flutter development
 * 🌱 Currently learning **Advanced Flutter Development** and **DevOps Fundamentals**
-* 🎯 Interested in building scalable mobile solutions and improving user experiences
+* 🎯 Passionate about building high-quality mobile applications and solving real-world problems through technology
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Mobile Development
+### 📱 Mobile Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white\&style=for-the-badge)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart\&logoColor=white\&style=for-the-badge)
@@ -26,31 +28,33 @@ Passionate Flutter Developer with hands-on experience building, maintaining, and
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin\&logoColor=white\&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java\&logoColor=white\&style=for-the-badge)
 
-### State Management & Architecture
+### 🏗️ Architecture & State Management
 
-* Bloc / Cubit
-* Riverpod
 * Clean Architecture
 * MVVM
 * SOLID Principles
+* Bloc
+* Cubit
+* Riverpod
 
-### Backend & Services
+### 🔥 Backend & Services
 
 * REST APIs
 * Dio
 * JSON Parsing
 * Firebase Authentication
-* Firestore Database
+* Firestore
 * Firebase Cloud Messaging (FCM)
+* Push Notifications
 
-### Tools
+### 🛠️ Tools
 
 * Git & GitHub
 * Android Studio
 * VS Code
 * Postman
 
-### Additional Skills
+### 💻 Additional Skills
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B\&logoColor=white\&style=for-the-badge)
 ![C%23](https://img.shields.io/badge/C%23-239120?logo=c-sharp\&logoColor=white\&style=for-the-badge)
@@ -60,62 +64,155 @@ Passionate Flutter Developer with hands-on experience building, maintaining, and
 
 ---
 
-## 📱 Featured Projects
+## 💼 Professional Experience
 
-### 🚗 AbuDiyab Rent
+### Flutter Developer | AbuDiyab IT Services (2024 – Present)
 
-Car rental application supporting multiple branches and platforms.
+* Building and maintaining cross-platform mobile applications using Flutter and Dart
+* Integrating REST APIs and Firebase services
+* Developing scalable architectures and reusable components
+* Publishing and maintaining applications on Google Play, App Store, and Huawei AppGallery
+* Collaborating with backend developers and QA teams to ensure stable releases
 
-**Contributions:**
+### Flutter Developer Intern | NTI Mansoura (2024)
 
-* Added new features and enhanced existing functionality
-* Refactored legacy code and fixed critical bugs
-* Improved performance and app stability
-* Managed Android & iOS publishing
+* Developed Flutter applications using Dart and Material Design
+* Practiced API integration and state management
+* Worked with Git and collaborative development workflows
 
-### 🔧 AVSC
+### Freelance Flutter Developer
 
-Vehicle maintenance and workshop management platform.
-
-**Contributions:**
-
-* Developed the application from scratch
-* Designed app architecture
-* Integrated Firebase and REST APIs
-* Published on Android, iOS, and Huawei AppGallery
-
-### 🚘 Darakson
-
-Modern car rental application.
-
-**Contributions:**
-
-* Rebuilt UI and improved user experience
-* Added new features and optimized performance
-* Published updated versions across stores
+* Delivered custom Flutter applications for clients
+* Built responsive and user-friendly mobile interfaces
+* Integrated APIs and Firebase services
+* Managed application deployment and maintenance
 
 ---
 
-## 🤝 Collaboration
+## 📱 Published Applications
 
-I'm open to collaborating on:
+### 🚗 AbuDiyab Rent
+
+Feature-rich car rental application supporting multiple branches and rental services.
+
+#### 📥 Download
+
+* 🤖 Google Play
+  https://play.google.com/store/apps/details?id=com.abudiyab.abudiyab&hl=en
+
+* 🍎 App Store
+  https://apps.apple.com/ae/app/id1570665182
+
+* 📱 Huawei AppGallery
+  https://appgallery.huawei.com/#/app/C104414053
+
+#### My Contributions
+
+* Enhanced existing features
+* Added new functionalities
+* Refactored legacy code
+* Fixed critical bugs
+* Optimized performance
+* Managed Android & iOS publishing
+
+---
+
+### 🔧 AVSC
+
+Complete vehicle maintenance and workshop management platform.
+
+#### 📥 Download
+
+* 🤖 Google Play
+  https://play.google.com/store/apps/details?id=com.abudiyab.workshop
+
+* 🍎 App Store
+  https://apps.apple.com/app/id6755426926
+
+* 📱 Huawei AppGallery
+  https://appgallery.huawei.com/#/app/C116080001
+
+#### My Contributions
+
+* Developed the application from scratch
+* Designed the application architecture
+* Built responsive UI/UX
+* Integrated Firebase services
+* Implemented REST APIs
+* Handled testing and optimization
+* Published on all supported stores
+
+---
+
+### 🚘 Darakson
+
+Modern car rental application with enhanced user experience.
+
+#### 📥 Download
+
+* 🤖 Google Play
+  https://play.google.com/store/apps/details?id=com.app.rentdarakson
+
+* 🍎 App Store
+  https://apps.apple.com/ng/app/id6743080006
+
+* 📱 Huawei AppGallery
+  https://appgallery.huawei.com/#/app/C114522197
+
+#### My Contributions
+
+* Rebuilt major UI components
+* Added new features
+* Improved user workflows
+* Enhanced application performance
+* Published updated releases
+
+---
+
+## 🎓 Education
+
+### Bachelor of Computer Science
+
+MET Academy — 2024
+
+### Mobile App Development (Flutter)
+
+NTI Mansoura — 2024
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm interested in collaborating on:
 
 * Flutter Applications
 * Mobile App Startups
-* Firebase-based Projects
-* Open Source Mobile Solutions
+* Firebase-Based Projects
+* Open Source Flutter Projects
+* Innovative Mobile Solutions
+
+---
+
+## 📊 GitHub Stats
+
+![Hady's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HadyEldod\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HadyEldod\&layout=compact)
 
 ---
 
 ## 📫 Connect With Me
 
-* 📧 Email: **[hadyalsawah52@gmail.com](mailto:hadyalsawah52@gmail.com)**
-* 💼 LinkedIn: **linkedin.com/in/hady-el-sawah**
-* 💻 GitHub: **github.com/HadyEldod**
-* 📱 WhatsApp: **+20 122 273 8657**
+📧 Email: **[hadyalsawah52@gmail.com](mailto:hadyalsawah52@gmail.com)**
+
+💼 LinkedIn: **https://linkedin.com/in/hady-el-sawah**
+
+💻 GitHub: **https://github.com/HadyEldod**
+
+📱 WhatsApp: **https://wa.me/201222738657**
 
 ---
 
 ## ⚡ Fun Fact
 
-I started programming because I enjoy solving puzzles, and today I see every software challenge as an opportunity to learn, build, and innovate.
+I started programming because I enjoy solving puzzles. Today, I approach every software challenge as an opportunity to learn, innovate, and build impactful solutions.
